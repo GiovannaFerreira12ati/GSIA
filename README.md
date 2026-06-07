@@ -1,12 +1,12 @@
-# Mission Control AI
+## Mission Control AI
 
 ## Integrantes
 
-- Nome Completo – RM XXXXXXX
-- Nome Completo – RM XXXXXXX
-- Nome Completo – RM XXXXXXX
+- Giovanna Ferreira Almeida – RM XXXXXXX
+- Maria Luiza Vieira – RM XXXXXXX
+- Matheus Arruda Camara Soares – RM XXXXXXX
 
----
+
 
 ## Descrição
 
@@ -16,7 +16,7 @@ A solução gera dados simulados de temperatura, energia, comunicação e status
 
 Além disso, utiliza o modelo Llama 3.2 1B via Ollama para realizar análises inteligentes da situação operacional da missão.
 
----
+
 
 ## Tecnologias Utilizadas
 
@@ -25,7 +25,7 @@ Além disso, utiliza o modelo Llama 3.2 1B via Ollama para realizar análises in
 - Ollama
 - Llama 3.2 1B
 
----
+
 
 ## Funcionalidades
 
@@ -38,7 +38,7 @@ Além disso, utiliza o modelo Llama 3.2 1B via Ollama para realizar análises in
 - Tomada de decisão automática
 - Análise com Inteligência Artificial
 
----
+
 
 ## Exemplo de Execução
 
@@ -50,7 +50,7 @@ Além disso, utiliza o modelo Llama 3.2 1B via Ollama para realizar análises in
 
 ![Print 2](imagens/print2.png)
 
----
+
 
 ## Como Executar
 
@@ -59,7 +59,7 @@ Além disso, utiliza o modelo Llama 3.2 1B via Ollama para realizar análises in
 3. Aguardar o download do modelo Llama.
 4. Executar o sistema.
 
----
+
 
 ## Vídeo de Demonstração
 
