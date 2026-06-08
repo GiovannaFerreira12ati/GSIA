@@ -2,10 +2,11 @@
 
 ## Integrantes
 
-- Giovanna Ferreira Almeida – RM XXXXXXX
-- Maria Luiza Vieira – RM XXXXXXX
-- Matheus Arruda Camara Soares – RM XXXXXXX
+- Maria Luiza Vieira de Freitas RM571535
 
+- Giovanna Ferreira Almeida RM571822
+
+- Matheus Arruda Camara Soares RM571594
 
 
 ## Descrição
@@ -42,19 +43,18 @@ Além disso, utiliza o modelo Llama 3.2 1B via Ollama para realizar análises in
 
 ## Exemplo de Execução
 
-### Cenário Normal
+<img width="1775" height="673" alt="Captura de tela 2026-06-08 181742" src="https://github.com/user-attachments/assets/a86a163d-50c6-45dd-859e-156990bdc902" />
+<img width="1762" height="747" alt="Captura de tela 2026-06-08 181508" src="https://github.com/user-attachments/assets/14b9d77d-b185-4c7a-b176-52fbcd22350a" />
+<img width="1775" height="657" alt="Captura de tela 2026-06-08 181350" src="https://github.com/user-attachments/assets/45daf72b-2cf3-402f-bdef-4d2a5684e1f7" />
+<img width="1770" height="683" alt="Captura de tela 2026-06-08 181133" src="https://github.com/user-attachments/assets/0a3f9821-fd66-41b3-bd9d-7d9554598360" />
 
-![Print 1](imagens/print1.png)
-
-### Cenário Crítico
-
-![Print 2](imagens/print2.png)
 
 
 
 ## Como Executar
 
-1. Abrir o notebook no Google Colab.
+1. Abrir o notebook no Google Colab:
+https://colab.research.google.com/drive/1ewE33TLYG0Wd7aJ5cHzWuVxbxSNWm4BT?authuser=3
 2. Executar as células na ordem.
 3. Aguardar o download do modelo Llama.
 4. Executar o sistema.
@@ -63,4 +63,3 @@ Além disso, utiliza o modelo Llama 3.2 1B via Ollama para realizar análises in
 
 ## Vídeo de Demonstração
 
-Adicionar aqui o link do vídeo após o upload.
