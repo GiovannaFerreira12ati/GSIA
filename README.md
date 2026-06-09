@@ -62,4 +62,4 @@ https://colab.research.google.com/drive/1ewE33TLYG0Wd7aJ5cHzWuVxbxSNWm4BT?authus
 
 
 ## Vídeo de Demonstração
-https://github.com/GiovannaFerreira12ati/GSIA/edit/main/README.md
+https://youtu.be/VJFvzNrPih0
